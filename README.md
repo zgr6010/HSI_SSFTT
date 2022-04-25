@@ -2,8 +2,7 @@
 
 Using the code should cite the following papers:
 
-1. L. Sun, G. Zhao, Y. Zheng, Z. Wu. Spectral–spatial feature tokenization transformer for hyperspectral image classification. IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
-2. L. Sun, C. Ma, Y. Chen .  Low rank component induced spatial-spectral kernel method for hyperspectral image classification. IEEE Transactions on Circuits and Systems for Video Technology. vol. 30, no. 10, pp. 3829–3842, Oct. 2020. 
+L. Sun, G. Zhao, Y. Zheng, Z. Wu. Spectral–spatial feature tokenization transformer for hyperspectral image classification. IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
 
 Feel free to contact us if there is anything we can help. Thanks for your support!
 
