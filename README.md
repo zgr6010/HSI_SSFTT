@@ -2,7 +2,7 @@
 
 Using the code should cite the following papers:
 
-L. Sun, G. Zhao, Y. Zheng, Z. Wu. Spectral–spatial feature tokenization transformer for hyperspectral image classification. IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
+L. Sun, G. Zhao, Y. Zheng, Z. Wu. "Spectral–spatial feature tokenization transformer for hyperspectral image classification." IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
 
 Feel free to contact us if there is anything we can help. Thanks for your support!
 
