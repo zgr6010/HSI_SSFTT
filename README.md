@@ -1,6 +1,6 @@
 # PyTorch Demo of the Hyperspectral Image Classification method - SSFTT.
 
-Using the code should cite the following papers:
+Using the code should cite the following paper:
 
 L. Sun, G. Zhao, Y. Zheng, Z. Wu. "Spectral–spatial feature tokenization transformer for hyperspectral image classification." IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
 
