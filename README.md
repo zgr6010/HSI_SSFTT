@@ -2,7 +2,18 @@
 
 Using the code should cite the following paper:
 
-L. Sun, G. Zhao, Y. Zheng, Z. Wu. "Spectral–spatial feature tokenization transformer for hyperspectral image classification." IEEE Transactions on Geoscience and Remote Sensing. DOI:10.1109/TGRS.2022.3144158.
+L. Sun, G. Zhao, Y. Zheng and Z. Wu, "Spectral–Spatial Feature Tokenization Transformer for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 60, pp. 1-14, 2022, Art no. 5522214,  DOI:10.1109/TGRS.2022.3144158.
+
+@ARTICLE{9684381,  
+author={Sun, Le and Zhao, Guangrui and Zheng, Yuhui and Wu, Zebin},  
+journal={IEEE Transactions on Geoscience and Remote Sensing},   
+title={Spectral–Spatial Feature Tokenization Transformer for Hyperspectral Image Classification},   
+year={2022}, 
+volume={60},  
+number={},  
+pages={1-14},  
+doi={10.1109/TGRS.2022.3144158}
+}
 
 Feel free to contact us if there is anything we can help. Thanks for your support!
 
